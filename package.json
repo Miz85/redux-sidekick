@@ -1,0 +1,10 @@
+{
+  "name": "redux-sidekick",
+  "version": "0.0.1",
+  "description": "Opionated helpers for redux",
+  "main": "index.js",
+  "repository": "git@github.com:Miz85/redux-sidekick.git",
+  "author": "Nazim Saouli",
+  "license": "MIT",
+  "private": false
+}

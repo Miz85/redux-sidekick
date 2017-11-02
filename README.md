@@ -1,2 +1,2 @@
 # redux-sidekick
-Opinionated helpers for redux
+WIP Opinionated helpers for redux
