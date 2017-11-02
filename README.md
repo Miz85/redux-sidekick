@@ -6,7 +6,7 @@ easy to write and we love it. What's even more amazing about it is its
 flexibility and the fact that you're not forced to organize your app in a
 specific way.
 
-However we sometimes see beginners hqving some difficulties understanding how
+However we sometimes see beginners having some difficulties understanding how
 to wire asynchronous actions into the redux workflow. Redux sidekick tries to
 build an abstraction on top of Redux in order to help you include asynchronous
 behaviour into your redux workflow easily.
